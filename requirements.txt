@@ -1,2 +1,6 @@
 numpy
 matplotlib
+gym
+torch
+matplotlib
+optuna
